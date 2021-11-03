@@ -16,9 +16,7 @@ public class CopilotTest1 : MonoBehaviour
         
     }
 
-    //singleton pattern
-    public static CopilotTest1 Instance { get; private set; }
-    //    
+
 
 
 }
